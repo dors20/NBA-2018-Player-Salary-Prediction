@@ -1,4 +1,4 @@
-# NBA-2018-stats-data-Analysis
+# NBA-2018-Player-Salary-Prediction
 Abstract
 
 This project performs a comprehensive analysis of an NBA players dataset from 2018. The initial phase involved extensive data cleaning and preprocessing, which included handling missing data by removing columns with last season's statistics and rectifying non-numeric entries in columns such as 'AGE' and 'SALARY'. The analysis features several visualizations, including a pie chart illustrating the distribution of player experience, which shows that nearly half of the players have 0-3 years of experience. Additionally, bar charts depict the number of players from various universities, team salary caps, and the mean age of players per team. A key finding is that the University of Kentucky has produced the most NBA players among U.S. universities. The project also identifies the highest-paid player in the dataset as Stephen Curry. 
